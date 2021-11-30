@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" style="zoom: 1;">
+    <defs>
+        <style>.cls-1{fill:#ace7ff;}.cls-2,.cls-5{fill:#6eb5ff;}.cls-2{opacity:0.7;}.cls-3{fill:#231f20;}.cls-4{fill:#414042;}.cls-6{fill:#fff;}.cls-7{fill:#1edfe2;}.cls-8{fill:#755cff;}.cls-9{fill:#fef55a;}.cls-10{fill:#ff40fe;}</style>
+    </defs>
+    <title>cassette-tape-pixel</title>
+    <g id="Background" visibility="visible">
+        <rect id="color" class="cls-1" width="1000" height="1000" visibility="visible"></rect>
+    </g>
+    <g id="Cassette" visibility="visible">
+        <polygon class="cls-2" points="217.82 257.19 217.82 267.1 207.92 267.1 207.92 603.73 277.23 672.73 277.23 687.12 257.43 667.12 247.52 667.12 247.52 677.12 237.62 667.12 207.92 667.12 208.42 717.12 488.53 1000 1000 1000 1000 484.92 772.28 257.19 217.82 257.19" visibility="hidden"></polygon>
+        <rect class="cls-3" x="782.41" y="267.14" width="10.09" height="342.93" visibility="visible"></rect>
+        <rect class="cls-3" x="762.24" y="589.9" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="762.24" y="277.23" width="10.09" height="10.09" visibility="visible"></rect>
+        <path class="cls-3" d="M681.55,398.26V378.09H671.47v90.78h10.08V448.7h70.6v80.68h10.09V287.31H752.15v111Zm70.6,40.34h-70.6V408.34h70.6Z" visibility="visible"></path>
+        <rect class="cls-3" x="731.98" y="307.48" width="10.09" height="30.26" visibility="visible"></rect>
+        <rect class="cls-3" x="268.02" y="337.74" width="463.96" height="10.1" visibility="visible"></rect>
+        <rect class="cls-3" x="691.64" y="559.64" width="10.09" height="30.26" visibility="visible"></rect>
+        <polygon class="cls-3" points="711.81 589.9 701.72 589.9 701.72 610.07 298.28 610.07 298.28 589.9 288.19 589.9 288.19 610.07 217.59 610.07 217.59 620.15 782.41 620.15 782.41 610.07 711.81 610.07 711.81 589.9" visibility="visible"></polygon>
+        <rect class="cls-3" x="661.38" y="579.81" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="651.29" y="589.9" width="10.1" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="651.29" y="569.73" width="10.1" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="328.53" y="468.87" width="342.94" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="651.29" y="408.34" width="10.1" height="30.26" visibility="visible"></rect>
+        <rect class="cls-3" x="641.2" y="579.81" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="641.2" y="438.6" width="10.09" height="10.1" visibility="visible"></rect>
+        <rect class="cls-3" x="641.2" y="398.26" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="610.95" y="448.7" width="30.26" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="610.95" y="388.17" width="30.26" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="600.86" y="569.73" width="10.09" height="20.17" visibility="visible"></rect>
+        <rect class="cls-3" x="600.86" y="438.6" width="10.09" height="10.1" visibility="visible"></rect>
+        <rect class="cls-3" x="600.86" y="398.26" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="580.69" y="559.64" width="20.17" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="590.78" y="408.34" width="10.09" height="30.26" visibility="visible"></rect>
+        <rect class="cls-3" x="580.69" y="589.9" width="20.17" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="570.61" y="569.73" width="10.09" height="20.17" visibility="visible"></rect>
+        <path class="cls-3" d="M429.39,458.78H570.61V388.17H429.39Zm10.09-60.52h20.18v10.08h10.08V398.26h60.52v10.08h10.08V398.26h20.18V448.7H540.34V438.6H530.26v10.1H469.74V438.6H459.66v10.1H439.48Z" visibility="visible"></path>
+        <rect class="cls-3" x="520.17" y="408.34" width="10.09" height="30.26" visibility="visible"></rect>
+        <rect class="cls-3" x="469.74" y="408.34" width="10.09" height="30.26" visibility="visible"></rect>
+        <rect class="cls-3" x="419.31" y="569.73" width="10.09" height="20.17" visibility="visible"></rect>
+        <rect class="cls-3" x="399.14" y="559.64" width="20.17" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="399.14" y="589.9" width="20.17" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="399.14" y="408.34" width="10.09" height="30.26" visibility="visible"></rect>
+        <rect class="cls-3" x="389.05" y="569.73" width="10.09" height="20.17" visibility="visible"></rect>
+        <rect class="cls-3" x="389.05" y="438.6" width="10.09" height="10.1" visibility="visible"></rect>
+        <rect class="cls-3" x="389.05" y="398.26" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="358.8" y="448.7" width="30.26" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="358.8" y="388.17" width="30.26" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="348.7" y="579.81" width="10.1" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="348.7" y="438.6" width="10.1" height="10.1" visibility="visible"></rect>
+        <rect class="cls-3" x="348.7" y="398.26" width="10.1" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="338.62" y="589.9" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="338.62" y="569.73" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="338.62" y="408.34" width="10.09" height="30.26" visibility="visible"></rect>
+        <rect class="cls-3" x="328.53" y="368" width="342.94" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="328.53" y="579.81" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="318.45" y="317.57" width="363.11" height="10.09" visibility="visible"></rect>
+        <polygon class="cls-3" points="318.45 539.46 681.55 539.46 681.55 559.64 691.64 559.64 691.64 539.46 752.15 539.46 752.15 529.38 247.84 529.38 247.84 539.46 308.36 539.46 308.36 559.64 318.45 559.64 318.45 539.46" visibility="visible"></polygon>
+        <rect class="cls-3" x="298.28" y="559.64" width="10.09" height="30.26" visibility="visible"></rect>
+        <rect class="cls-3" x="268.02" y="297.4" width="463.96" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="257.94" y="307.48" width="10.09" height="30.26" visibility="visible"></rect>
+        <polygon class="cls-3" points="742.06 287.31 752.15 287.31 752.15 277.23 247.84 277.23 247.84 287.31 257.94 287.31 742.06 287.31" visibility="visible"></polygon>
+        <path class="cls-3" d="M318.45,448.7v20.17h10.08V378.09H318.45v20.17H247.84V287.31H237.76V529.38h10.08V448.7Zm-70.61-40.36h70.61V438.6H247.84Z" visibility="visible"></path>
+        <rect class="cls-3" x="227.67" y="589.9" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="227.67" y="277.23" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="217.59" y="257.06" width="564.83" height="10.09" visibility="visible"></rect>
+        <rect class="cls-3" x="207.5" y="267.14" width="10.09" height="342.93" visibility="visible"></rect>
+        <polygon class="cls-4" points="540.34 398.26 540.34 408.34 530.25 408.34 530.25 438.6 540.34 438.6 540.34 448.69 560.52 448.69 560.52 398.26 540.34 398.26" visibility="visible"></polygon>
+        <polygon class="cls-4" points="459.66 398.26 439.48 398.26 439.48 448.69 459.66 448.69 459.66 438.6 469.75 438.6 469.75 408.34 459.66 408.34 459.66 398.26" visibility="visible"></polygon>
+        <polygon class="cls-5" points="469.75 398.26 469.75 408.34 479.83 408.34 479.83 438.6 469.75 438.6 469.75 448.69 530.25 448.69 530.25 438.6 520.17 438.6 520.17 408.34 530.25 408.34 530.25 398.26 469.75 398.26" visibility="visible"></polygon>
+        <polygon class="cls-5" points="651.29 408.34 641.2 408.34 641.2 398.26 610.95 398.26 610.95 408.34 600.86 408.34 600.86 438.6 610.95 438.6 610.95 448.69 641.2 448.69 641.2 438.6 651.29 438.6 651.29 408.34" visibility="visible"></polygon>
+        <rect class="cls-5" x="580.69" y="569.73" width="20.17" height="20.17" visibility="visible"></rect>
+        <rect class="cls-5" x="399.14" y="569.73" width="20.17" height="20.17" visibility="visible"></rect>
+        <polygon class="cls-5" points="399.14 408.34 389.05 408.34 389.05 398.26 358.8 398.26 358.8 408.34 348.7 408.34 348.7 438.6 358.8 438.6 358.8 448.69 389.05 448.69 389.05 438.6 399.14 438.6 399.14 408.34" visibility="visible"></polygon>
+        <path class="cls-6" d="M732,337.74V307.48H268v30.26ZM318.45,327.65V317.57h363.1v10.08Z" visibility="visible"></path>
+        <rect class="cls-6" x="651.29" y="579.81" width="10.1" height="10.09" visibility="visible"></rect>
+        <rect class="cls-6" x="338.62" y="579.81" width="10.09" height="10.09" visibility="visible"></rect>
+        <rect class="cls-7" x="681.55" y="428.51" width="70.6" height="10.09" visibility="visible"></rect>
+        <rect class="cls-7" x="247.84" y="428.51" width="70.61" height="10.09" visibility="visible"></rect>
+        <rect class="cls-8" x="681.55" y="418.43" width="70.6" height="10.09" visibility="visible"></rect>
+        <rect class="cls-8" x="247.84" y="418.43" width="70.61" height="10.09" visibility="visible"></rect>
+        <path class="cls-9" d="M247.84,287.31v111h70.61V378.09h10.08V368H671.47v10.09h10.08v20.17h70.6V287.31Zm494.22,50.43H732v10.09H268V337.74H257.94V307.48H268V297.4H732v10.08h10.08Z" visibility="visible"></path>
+        <polygon class="cls-9" points="681.55 448.69 681.55 468.87 671.47 468.87 671.47 478.95 328.53 478.95 328.53 468.87 318.45 468.87 318.45 448.69 247.84 448.69 247.84 529.38 752.15 529.38 752.15 448.69 681.55 448.69" visibility="visible"></polygon>
+        <rect class="cls-10" x="681.55" y="408.34" width="70.6" height="10.09" visibility="visible"></rect>
+        <path class="cls-10" d="M328.53,378.09v90.78H671.47V378.09Zm30.27,80.69V448.7H348.7V438.6H338.62V408.34H348.7V398.26h10.1V388.17h30.25v10.09h10.09v10.08h10.08V438.6H399.14v10.1H389.05v10.08Zm70.59,0V388.17H570.61v70.61Zm232-20.18H651.29v10.1H641.2v10.08H611V448.7H600.86V438.6H590.78V408.34h10.08V398.26H611V388.17H641.2v10.09h10.09v10.08h10.09Z" visibility="visible"></path>
+        <path d="M701.72,610.07 V589.9 H691.64 V559.64 H681.55 V539.46 H318.45 v20.18 H308.36 V589.9 H298.28 v20.17 M651.29,600 V589.9 H641.2 V579.81 h10.09 V569.73 h10.09 v10.08 h10.09 V589.9 H661.38 V600 m-312.67,0 V589.9 H328.53 V579.81 h10.09 V569.73 H348.7 v10.08 h10.1 V589.9 H348.7 V600 m60.52,0 V589.9 H389.05 V569.73 h10.09 V559.64 h20.17 v10.09 h10.08 V589.9 H419.31 V600 m181.55,0 V589.9 H570.61 V569.73 h10.08 V559.64 h20.17 v10.09 H611 V589.9 H600.86 V600 " visibility="visible" class="cls-10"></path>
+        <rect class="cls-10" x="247.84" y="408.34" width="70.61" height="10.09" visibility="visible"></rect>
+        <path class="cls-10" d="M298.28,559.64h10.08V539.46H247.84V529.38H237.76V287.31H227.67V277.23h10.09v10.08h10.08V277.23H752.15v10.08h10.09V277.23h10.09v10.08H762.24V529.38H752.15v10.08H691.64v20.18h10.08V589.9h10.09v20.17h70.6V267.14H217.59V610.07h70.6V589.9h10.09ZM772.33,600H762.24V589.9h10.09Zm-544.66,0V589.9h10.09V600Z" visibility="visible"></path>
+    </g>
+    <g id="Text" visibility="hidden">
+        <polygon class="cls-3" points="782.59 667.27 782.59 726.75 653.69 726.75 653.69 736.67 792.5 736.67 792.5 667.27 782.59 667.27" visibility="hidden"></polygon>
+        <polygon class="cls-3" points="584.28 667.27 584.28 697.01 594.2 697.01 594.2 706.92 584.28 706.92 584.28 716.84 604.11 716.84 604.11 687.1 594.2 687.1 594.2 677.18 604.11 677.18 604.11 667.27 584.28 667.27" visibility="hidden"></polygon>
+        <rect class="cls-3" x="564.45" y="667.27" width="9.91" height="49.57" visibility="hidden"></rect>
+        <polygon class="cls-3" points="524.79 667.27 514.87 667.27 514.87 716.84 534.7 716.84 534.7 706.92 524.79 706.92 524.79 667.27" visibility="hidden"></polygon>
+        <path class="cls-3" d="M475.21,667.27v49.57H505V667.27ZM495,706.92h-9.91V677.18H495Z" visibility="hidden"></path>
+        <path class="cls-3" d="M435.55,667.27v49.57H465.3V667.27Zm19.84,39.65h-9.93V677.18h9.93Z" visibility="hidden"></path>
+        <polygon class="cls-3" points="415.72 687.1 405.81 687.1 405.81 667.27 395.89 667.27 395.89 716.84 405.81 716.84 405.81 697.01 415.72 697.01 415.72 716.84 425.63 716.84 425.63 667.27 415.72 667.27 415.72 687.1" visibility="hidden"></polygon>
+        <polygon class="cls-3" points="366.15 667.27 366.15 716.84 385.98 716.84 385.98 706.92 376.06 706.92 376.06 677.18 385.98 677.18 385.98 667.27 366.15 667.27" visibility="hidden"></polygon>
+        <polygon class="cls-3" points="336.39 667.27 336.39 697.01 346.31 697.01 346.31 706.92 336.39 706.92 336.39 716.84 346.31 716.84 356.23 716.84 356.23 687.1 346.31 687.1 346.31 677.18 356.23 677.18 356.23 667.27 336.39 667.27" visibility="hidden"></polygon>
+        <rect class="cls-3" x="296.74" y="677.18" width="9.91" height="29.74" visibility="hidden"></rect>
+        <polygon class="cls-3" points="286.82 677.18 296.74 677.18 296.74 667.27 276.91 667.27 276.91 716.84 296.74 716.84 296.74 706.92 286.82 706.92 286.82 677.18" visibility="hidden"></polygon>
+        <polygon class="cls-3" points="257.08 667.27 247.16 667.27 247.16 716.84 257.08 716.84 267 716.84 267 706.92 257.08 706.92 257.08 667.27" visibility="hidden"></polygon>
+        <path class="cls-3" d="M207.5,667.27v49.57h29.74V667.27Zm19.83,39.65h-9.92V677.18h9.92Z" visibility="hidden"></path>
+        <rect class="cls-9" x="633.85" y="657.35" width="148.73" height="69.4" visibility="hidden"></rect>
+        <polygon class="cls-10" points="762.76 706.92 762.76 667.27 752.84 667.27 752.84 716.84 772.67 716.84 772.67 706.92 762.76 706.92" visibility="hidden"></polygon>
+        <path class="cls-10" d="M713.18,667.27v49.57h29.74V667.27ZM733,706.92h-9.91V677.18H733Z" visibility="hidden"></path>
+        <path class="cls-10" d="M673.52,667.27v49.57h29.74V667.27Zm19.83,39.65h-9.92V677.18h9.92Z" visibility="hidden"></path>
+        <polygon class="cls-10" points="643.77 667.27 643.77 716.84 663.61 716.84 663.61 706.92 653.69 706.92 653.69 677.18 663.61 677.18 663.61 667.27 643.77 667.27" visibility="hidden"></polygon>
+    </g>
+</svg>
